@@ -1,0 +1,46 @@
+* {
+    background-color: rgb(214, 205, 138);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ol {
+    list-style-type: none;
+}
+
+
+h1 {
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+}
+
+h1 {
+    color: red;
+   
+}
+
+h2 {
+    color: green;
+}
+
+h3 {
+    color: blue;
+}
+
+h4 {
+    color: gray;
+}
+
+li {
+    padding: 3px;
+}
